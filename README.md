@@ -20,6 +20,7 @@ A passionate Full Stack Web developer from India who always strives to work on e
 * ✌️ Enjoy doing programming and sharing knowledge.
 * ❤️ Love to write code and learn new features.
 * ⚡ Fun fact - You only achieve your dreams if you dare to dream them first.!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sacchida-khandelwal-%F0%9F%92%BB-7a8a00288/) 
 
