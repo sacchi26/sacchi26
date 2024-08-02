@@ -13,8 +13,8 @@ A passionate Full Stack Web developer from India who always strives to work on e
 
 * 🌍  I'm based in - Narmadapuram[MP]
 * 🌱 I’m currently learning- Backend
-* 🖥️  See my portfolio at - [ My Portfolio](https://portfolio-sacchi.vercel.app/)
-* 🧾 Check out my - [resume](https://drive.google.com/file/d/1g1Y1-KqRLvke8hpYaMOpuqBJwBBjKRSK/view?usp=sharing).
+* 🖥️  See my portfolio at - [ My Portfolio](https://sacchida.vercel.app/)
+* 🧾 Check out my - [resume](https://www.linkedin.com/in/sacchida-khandelwal/).
 * ✉️  You can contact me at - khandelwalkhushi858@gmail.com
 * 💬 Ask me about Python, React, JS, HTML & CSS.
 * ✌️ Enjoy doing programming and sharing knowledge.
